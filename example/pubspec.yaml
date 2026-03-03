@@ -1,0 +1,19 @@
+name: google_wallet_button_example
+description: Demonstrates the google_wallet_button package.
+publish_to: none
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_wallet_button:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
