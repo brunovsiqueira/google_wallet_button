@@ -2,17 +2,18 @@
 
 Unofficial Flutter widgets for **"Add to Google Wallet"** and **"View in Google Wallet"** buttons with automatic locale detection and official branding assets.
 
+Inspired by official compose counterpat https://github.com/google-wallet/compose-wallet-button.
+
 ## Features
 
 - Two button types: `AddToGoogleWalletButton` and `ViewInGoogleWalletButton`
 - Two styles per type: `primary` (full-width) and `condensed` (badge)
 - ~70 localized SVG assets for "Add to" and ~75 for "View in"
 - Automatic locale detection from ambient `Localizations`
-- Manual locale override
+- Manual locale override possible (`locale` parameter)
 - Custom height (width derived from aspect ratio)
 - Disabled state (pass `null` to `onPressed`)
 - Accessibility via `Semantics`
-- Works on all Flutter platforms
 
 ## Installation
 
