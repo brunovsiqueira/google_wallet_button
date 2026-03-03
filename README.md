@@ -4,6 +4,10 @@ Unofficial **UI-only** Flutter widgets for **"Add to Google Wallet"** and **"Vie
 
 Inspired by the official Compose counterpart https://github.com/google-wallet/compose-wallet-button.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brunovsiqueira/google_wallet_button/main/doc/example.png" alt="Example app screenshot" width="300"/>
+</p>
+
 ## Features
 
 - Two button types: `AddToGoogleWalletButton` and `ViewInGoogleWalletButton`
