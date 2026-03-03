@@ -1,8 +1,8 @@
 # google_wallet_button
 
-Unofficial Flutter widgets for **"Add to Google Wallet"** and **"View in Google Wallet"** buttons with automatic locale detection and official branding assets.
+Unofficial **UI-only** Flutter widgets for **"Add to Google Wallet"** and **"View in Google Wallet"** buttons with automatic locale detection and official branding assets. This package provides the button UI — it does not integrate with the [Google Wallet Passes API](https://developers.google.com/wallet). You are responsible for handling the `onPressed` callback to create and save passes.
 
-Inspired by official compose counterpat https://github.com/google-wallet/compose-wallet-button.
+Inspired by the official Compose counterpart https://github.com/google-wallet/compose-wallet-button.
 
 ## Features
 
