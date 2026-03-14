@@ -1,7 +1,8 @@
 name: google_wallet_button
-description: Unofficial UI-only Flutter widget for "Add to Google Wallet" and "View in Google Wallet" buttons. Provides branded buttons with locale detection — does not include Google Wallet API integration.
-version: 0.1.0
+description: Flutter widget providing branded "Add to Google Wallet" and "View in Google Wallet" buttons with automatic locale detection.
+version: 0.1.1
 homepage: https://github.com/brunovsiqueira/google_wallet_button
+license: Apache-2.0
 repository: https://github.com/brunovsiqueira/google_wallet_button
 issue_tracker: https://github.com/brunovsiqueira/google_wallet_button/issues
 topics:
