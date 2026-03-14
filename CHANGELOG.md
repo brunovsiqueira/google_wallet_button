@@ -1,3 +1,9 @@
+## 0.1.1
+
+- Fix package description length to comply with pub.dev requirements.
+- Add SPDX license identifier to pubspec.yaml.
+- Fix LICENSE file formatting for proper recognition by pub.dev.
+
 ## 0.1.0
 
 - Initial release.
